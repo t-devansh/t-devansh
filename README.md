@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hey there, I'm Devansh Tandon<br><br>🚀 About Me<br><br>🎓 I'm a Computer Science student at the University of Victoria, focused on AI/ML, cybersecurity, and embedded systems.<br>🛰️ Currently developing ground station software for the UVic Satellite Design Club.<br>🧪 Building GUI systems in PyQt6 for command validation, telemetry, and image processing.<br>🔐 Passionate about AI/ML, cybersecurity, and building systems with real-world impact.<br>🛡️ Actively exploring cybersecurity tools and practices such as penetration testing, system hardening, and threat analysis.<br>🎨 I also enjoy graphic designing, especially for branding and digital media.
+# 👋 Hey there, I'm Devansh Tandon
+<br><br>🚀 About Me<br><br>🎓 I'm a Computer Science student at the University of Victoria, focused on AI/ML, cybersecurity, and embedded systems.<br>🛰️ Currently developing ground station software for the UVic Satellite Design Club.<br>🧪 Building GUI systems in PyQt6 for command validation, telemetry, and image processing.<br>🔐 Passionate about AI/ML, cybersecurity, and building systems with real-world impact.<br>🛡️ Actively exploring cybersecurity tools and practices such as penetration testing, system hardening, and threat analysis.<br>🎨 I also enjoy graphic designing, especially for branding and digital media.
 
 
 ## 🌐 Socials:
